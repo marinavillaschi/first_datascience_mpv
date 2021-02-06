@@ -20,7 +20,7 @@ My credentials include a degree in Civil Engineering with FUMEC University, a po
 
 
 ## Projetos:
-Veja os tutoriais publicados por Marina Villaschi:
+Veja os notebooks publicados por Marina Villaschi:
 
 * **Analisando os Dados do Airbnb - Munique:** https://bit.ly/2YTZ8li
 
