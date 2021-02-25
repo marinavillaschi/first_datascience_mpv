@@ -15,13 +15,14 @@ My credentials include a degree in Civil Engineering with FUMEC University, a po
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/marinavillaschi)
-* [Medium](https://www.medium.com)
+* [Medium](https://www.pandascouple.medium.com)
 
 
 ## Projetos:
-Veja os notebooks publicados por Marina Villaschi:
+Veja os projetos publicados por Marina Villaschi:
 
-* **Analisando os Dados do Airbnb - Munique:** https://bit.ly/2YTZ8li
+* **Análise dos Dados do Airbnb - Munique:** https://bit.ly/2YTZ8li
+* **Análise dos Dados da Violência no Rio de Janeiro** https://bit.ly/2ZTV9Wq
 
 
 ---
