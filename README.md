@@ -22,7 +22,7 @@ My credentials include a degree in Civil Engineering with FUMEC University, a po
 Veja os projetos publicados por Marina Villaschi:
 
 * **Análise dos Dados do Airbnb - Munique:** https://bit.ly/2YTZ8li
-* **Análise dos Dados da Violência no Rio de Janeiro** https://bit.ly/2ZTV9Wq
+* **Análise dos Dados da Violência no Rio de Janeiro:** https://bit.ly/2ZTV9Wq
 
 
 ---
