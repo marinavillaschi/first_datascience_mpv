@@ -23,6 +23,7 @@ Veja os projetos publicados por Marina Villaschi:
 
 * **Análise dos Dados do Airbnb - Munique:** https://bit.ly/2YTZ8li
 * **Análise dos Dados da Violência no Rio de Janeiro:** https://bit.ly/2ZTV9Wq
+* **Análise da COVID-19 no Brasil e no mundo:** https://bit.ly/3ttQzuM
 
 
 ---
