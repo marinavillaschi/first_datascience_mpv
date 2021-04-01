@@ -11,7 +11,7 @@ As an experienced Engineer I combine analytical skills, ability to work in team 
 
 My credentials include a degree in Civil Engineering with FUMEC University, a post graduation in Structure Engineering with UFMG (Federal Univertity of Minas Gerais) and recently the "Data Science na prática" practical course ministered by Carlos Melo https://sigmoidal.ai
 
-**Background in:** Python, Machine Learning, Engineering and Calculus.
+**Background in:** Python, EDA, Machine Learning, Engineering and Calculus.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/marinavillaschi)
@@ -19,12 +19,17 @@ My credentials include a degree in Civil Engineering with FUMEC University, a po
 
 
 ## Projetos:
-Veja os projetos publicados por Marina Villaschi:
+Veja os projetos desenvolvidos e publicados por Marina Villaschi
 
-* **Análise dos Dados do Airbnb - Munique:** https://bit.ly/2YTZ8li
-* **Análise dos Dados da Violência no Rio de Janeiro:** https://bit.ly/2ZTV9Wq
-* **Análise da COVID-19 no Brasil e no mundo:** https://bit.ly/3ttQzuM
-* **Detecção de Transações Fraudulentas em Cartões de Crédito:** https://bit.ly/3mb78cs
+### Projetos de Análise Exploratória de Dados (EDA):
+
+* Análise dos Dados do Airbnb - Munique: https://bit.ly/2YTZ8li
+* Análise dos Dados da Violência no Rio de Janeiro: https://bit.ly/2ZTV9Wq
+* Análise da COVID-19 no Brasil e no mundo: https://bit.ly/3ttQzuM
+
+### Projetos de Machine Learning:
+
+* Detecção de Transações Fraudulentas em Cartões de Crédito: https://bit.ly/3mb78cs
 
 
 ---
