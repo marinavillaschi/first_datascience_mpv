@@ -15,9 +15,9 @@ My credentials include a degree in Civil Engineering with FUMEC University, a po
 
 **Find me at:**
 
-* marinavillaschi@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/marinavillaschi)
 * [Medium](https://pandascouple.medium.com/)
+* marinavillaschi@gmail.com
 
 
 ## Projetos:
