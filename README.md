@@ -11,7 +11,7 @@ As an experienced Engineer I combine analytical skills, ability to work in team 
 
 My credentials include a degree in Civil Engineering with FUMEC University, a post graduation in Structure Engineering with UFMG (Federal Univertity of Minas Gerais) and currently transitioning careers to the Data Science field.
 
-**Background in:** Python, EDA, Machine Learning, Engineering and Calculus.
+**Background in:** Python, SQL, EDA, Machine Learning, Engineering and Calculus.
 
 **Find me at:**
 
