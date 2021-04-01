@@ -14,7 +14,8 @@ My credentials include a degree in Civil Engineering with FUMEC University, a po
 **Background in:** Python, EDA, Machine Learning, Engineering and Calculus.
 
 **Find me at:**
-* marinavillaschi@gmail.com
+
+marinavillaschi@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/marinavillaschi)
 * [Medium](https://pandascouple.medium.com/)
 
