@@ -31,7 +31,8 @@ Veja os projetos desenvolvidos e publicados por Marina Villaschi
 
 ### Projetos de Machine Learning:
 
-* **Detecção de Transações Fraudulentas em Cartões de Crédito:** https://bit.ly/3mb78cs (english version: https://bit.ly/3234tIx)
+* **Detecção de Transações Fraudulentas em Cartões de Crédito:** https://bit.ly/3mb78cs
+  **Credit card fraud detection:** https://bit.ly/3234tIx
 
 
 ---
