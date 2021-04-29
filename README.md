@@ -33,6 +33,7 @@ Veja os projetos desenvolvidos e publicados por Marina Villaschi
 
 * **Detecção de Transações Fraudulentas em Cartões de Crédito:** https://bit.ly/3mb78cs
 * **Previsão de Churn para Empresa de Telecom:** https://bit.ly/3tvc8LW
+* **Previsão de Inadimplência de Clientes de Cartão de Crédito:** https://bit.ly/3t6s3iK
 
 ### Machine Learning Projects in English:
 
