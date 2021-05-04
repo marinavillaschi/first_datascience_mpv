@@ -5,7 +5,7 @@
 </p>
 
 # Marina Villaschi
-<sub>Becoming a Data Scientist</sub>
+<sub>Data Scientist</sub>
 
 As an experienced Engineer I combine analytical skills, ability to work in team environments, and attention to details. Having spent the last few months studying Data Science and Machine Learning, I am developing a critical thinking and problem-solving skills.
 
