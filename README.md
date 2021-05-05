@@ -38,6 +38,8 @@ Veja os projetos desenvolvidos e publicados por Marina Villaschi
 ### Machine Learning Projects in English:
 
 * **Credit card fraud detection:** https://bit.ly/3uxuX15
+* **Churn prediction for telecom company:** https://bit.ly/3b6BDfz
+
 
 ---
 
