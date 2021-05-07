@@ -39,6 +39,7 @@ Veja os projetos desenvolvidos e publicados por Marina Villaschi
 
 * **Credit card fraud detection:** https://bit.ly/3uxuX15
 * **Churn prediction for telecom company:** https://bit.ly/3b6BDfz
+* **Credit card default prediction:** https://bit.ly/3w2t1Pd
 
 
 ---
